@@ -1,10 +1,12 @@
 <h1>Peter Infante <br/><a href="https://www.linkedin.com/in/peter-infante/">Aspiring Information Technology Professional</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Tech Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/petei)
   
+<h2>📃 Certifications</h2>
 
+- CompTIA A+ (in progress)
 
 <h2> 🤳 Connect with me:</h2>
 
