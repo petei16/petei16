@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Tech Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/petei16)
+- [Active Directory Home Lab](https://github.com/petei16/ActiveDirectoryLab)
   
 <h2>📃 Certifications</h2>
 
