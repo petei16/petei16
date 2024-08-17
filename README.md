@@ -3,6 +3,7 @@
 <h2>👨‍💻 Tech Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/petei16/ActiveDirectoryLab)
+- [Rock-Paper-Scissors Python Game](https://github.com/petei16/Rock-Paper-Scissors)
   
 <h2>📃 Certifications</h2>
 
